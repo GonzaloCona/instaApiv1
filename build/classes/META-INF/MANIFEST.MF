@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ mysql-connector-java-5.0.8-bin.jar org.json.jar gc
+ m-server-1.0.2.jar
+Class-Path: .
+Rsrc-Main-Class: instaApi.ApiInstagramSearch
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
